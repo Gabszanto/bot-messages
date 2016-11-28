@@ -1,0 +1,69 @@
+{
+    "text": "Which lunch option would you like?",
+    "attachments": [
+        {
+            "fallback": "Required plain-text summary of the attachment.",
+            "color": " ",
+            "text": "🍔 Hamburger",
+            "fallback": "You are not able to eat Hamburger for lunch",
+            "callback_id": "button_id",
+            "actions": [
+                {
+                    "name": "order",
+                    "text": "Add to order",
+                    "style":"default",
+                    "type": "button",
+                    "value": "order-value"
+                }
+            ] 
+        },
+        {
+            "fallback": "Required plain-text summary of the attachment.",
+            "color": " ",
+            "text": "🍜 Ramen",
+            "fallback": "You are not able to eat Ramen for lunch",
+            "callback_id": "button_id",
+            "actions": [
+                {
+                    "name": "order",
+                    "text": "Add to order",
+                    "style":"default",
+                    "type": "button",
+                    "value": "order-value"
+                }
+            ] 
+        },
+        {
+            "fallback": "Required plain-text summary of the attachment.",
+            "color": " ",
+            "text": "🍕 Pizza",
+            "fallback": "You are not able to eat Pizza for lunch",
+            "callback_id": "button_id",
+            "actions": [
+                {
+                    "name": "order",
+                    "text": "Add to order",
+                    "style":"default",
+                    "type": "button",
+                    "value": "order-value"
+                }
+            ] 
+        },
+        {
+            "fallback": "Required plain-text summary of the attachment.",
+            "color": " ",
+            "text": "🌮 Taco",
+            "fallback": "You are not able to eat Taco for lunch",
+            "callback_id": "button_id",
+            "actions": [
+                {
+                    "name": "order",
+                    "text": "Add to order",
+                    "style":"default",
+                    "type": "button",
+                    "value": "order-value"
+                }
+            ] 
+        }
+    ]
+}
