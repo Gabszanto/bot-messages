@@ -1,0 +1,146 @@
+{
+    "attachments": [
+        {
+            "fallback": "Welcome!",
+            "color": "#FFFFFF",
+            "pretext": "Hey, I'm _BotName_.\nWelcome to the *Community Name* on Slack! :tada:\n\n",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],
+            "image_url": "https://raw.githubusercontent.com/Gabszanto/bot-messages/master/assets/welcome-community.png"
+         },
+         {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        }, 
+         {
+            "title": "1/ Introduce yourself ",
+            "color":"#FFFFFF",
+            "text": "If you haven't yet, <https://your-community.slack.com/account/photo|add your profile pic> and introduce yourself to the community in <#C32NWNZPF|general>.",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "2/ Browse Channels ",
+            "color":"#FFFFFF",
+            "text": "Channels are sorted by topic, like <#C32NLGJMA|sources>, <#C32NXR9KP|tools>, <#C33ASNEA2|bugs>, <#C320HKTCZ|resources>, etc. \n_If you’d like a new channel, ask admins <@U33B45MSB|gabszanto> and <@U33EL6CT0|oothkoo>_",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "3/ Discuss about any topic ",
+            "color":"#FFFFFF",
+            "text": "Discuss with our very engaged community on Slack...",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "4/ Add our Bot ",
+            "color":"#FFFFFF",
+            "text": "We made it easy for you to use our service directly in Slack with *our Bot*.\n\n",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },    
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "pretext": "",
+            "text":":point_right:    <http://www.slugbay.com/#!/join|*ADD OUR BOT NOW*>   :point_left:",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]  
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "5/ Be respectful ",
+            "color":"#FFFFFF",
+            "text": "Be nice and respectful to fellow developers and their work. Also, please don't spam or troll.",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": " Enjoy! ",
+            "footer": "PS: I'm just a stupid bot so we can't have a conversation yet.",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        }
+    ]
+}
