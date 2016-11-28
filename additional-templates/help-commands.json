@@ -1,0 +1,107 @@
+{
+    "attachments": [
+        {
+            "fallback": "Help!",
+            "color": "#FFFFFF",
+            "pretext": "Hey *@username*,\n\nLearn how to *do something* with our Slack integration.\nIf you have any suggestion or feedback, send us an email at <mailto:feedback@mail.com|feedback@mail.com>",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],
+            "image_url": "https://raw.githubusercontent.com/Gabszanto/bot-messages/master/assets/help-commands.png"
+         },
+         {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "color":"#FFFFFF",
+            "title": ":pushpin:  SLASH COMMANDS",
+            "color":"#FFFFFF",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ],
+            "fields": [
+                {
+                    "title": "Commands:",
+                    "value": "`/slash command 1`",
+                    "short": true
+                },
+                {
+                    "title": "Action:",
+                    "value": "_Description of your Slash command 1_",
+                    "short": true
+                },
+                {
+                    "title": "Commands:",
+                    "value": "`/slash command 2`",
+                    "short": true
+                },
+                {
+                    "title": "Action:",
+                    "value": "_Description of your Slash command 2_",
+                    "short": true
+                },
+                {
+                    "title": "Commands:",
+                    "value": "`/slash command 3`",
+                    "short": true
+                },
+                {
+                    "title": "Action:",
+                    "value": "_Description of your Slash command 3_",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "color":"#FFFFFF",
+            "title": "More Help Commands:",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ],
+            "fields": [
+                {
+                    "title": " ",
+                    "value": "`/slash command 4`",
+                    "short": true
+                },
+                {
+                    "title": " ",
+                    "value": "_Display the list of other commands 4_",
+                    "short": true
+                },
+                {
+                    "title": " ",
+                    "value": "`/slash command 5`",
+                    "short": true
+                },
+                {
+                    "title": " ",
+                    "value": "_Display the list of other commands 5_",
+                    "short": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "attachments": [
+        {
+            "fallback": "Network Error.",
+            "color": "#FFFFFF",
+            "pretext": "*Oops...*\nLooks like something went wrong. \n",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ],
+            "image_url": "https://raw.githubusercontent.com/Gabszanto/gabszanto.github.io/master/error-slack.png"
+        }
+    ]    
+}

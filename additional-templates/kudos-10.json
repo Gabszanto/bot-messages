@@ -1,0 +1,171 @@
+{
+    "attachments": [
+        {
+            "fallback": "Today's kudos go to:",
+            "color": "#F7674E",
+            "pretext": "Here your go with today's *top 10 users* on our service:",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],  
+            "author_name": "user 1 :trophy:",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/1.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "1",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "Q",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 2",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/2.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "2",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "R",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 3",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/3.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "3",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "S",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 4",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/4.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "4",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "T",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 5",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/5.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "5",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "U",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 6",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/6.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "6",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "V",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 7",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/7.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "7",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "W",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 8",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/8.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "8",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "X",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 9",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/9.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "9",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "Y",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 10",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/10.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "10",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "Z",
+                    "short": true
+                }
+            ]
+        }
+    ]
+}

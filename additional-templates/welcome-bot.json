@@ -1,0 +1,150 @@
+{
+    "attachments": [
+        {
+            "fallback": "Welcome!",
+            "color": "#FFFFFF",
+            "pretext": "Hey *@username*,\nI'm *BotName*, thanks for inviting me on Slack! :wink:\n\n",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],
+            "image_url": "https://raw.githubusercontent.com/Gabszanto/bot-messages/master/assets/get-started-bot.png"
+         },
+         {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": ":pushpin: DO THIS",
+            "color":"#FFFFFF",
+            "text": "Describe what your bot can do for your user.\n\n",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ],
+            "fields": [
+                {
+                    "title": "Type:",
+                    "value": "`/slash command 1`",
+                    "short": true
+                },
+                {
+                    "title": "Example:",
+                    "value": "_This is what happen when a user types the slash command 1_",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": ":mag:  FIND THAT",
+            "color":"#FFFFFF",
+            "text": "Describe what your bot can do for your user.\n\n",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ],
+            "fields": [
+                {
+                    "title": "Type:",
+                    "value": "`/slash command 2`",
+                    "short": true
+                },
+                {
+                    "title": "Example:",
+                    "value": "_This is what happen when a user types the slash command 2_",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": ":card_index_dividers:  BROWSE THIS",
+            "color":"#FFFFFF",
+            "text": "Describe what your bot can do for your user.\n\n",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ],
+            "fields": [
+                {
+                    "title": "Type:",
+                    "value": "`/slash command 3`",
+                    "short": true
+                },
+                {
+                    "title": "Example:",
+                    "value": "_This is what happen when a user types the slash command 3_",
+                    "short": true
+                }
+            ]
+        },
+
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": ":envelope_with_arrow:  STAY UP-TO-DATE",
+            "color":"#FFFFFF",
+            "text": "At any time, let the user know he/she can update their <https://beta.slugbay.com/#!/settings/notifications|notifications settings>.",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        },
+        {
+            "title": "   ",
+            "color":"#FFFFFF",
+            "text": "  ",
+            "mrkdwn_in": [
+                "text",
+                "pretext",
+                "fields"
+            ]
+        }, 
+        {
+            "title": "And More...",
+            "color":"#FFFFFF",
+            "text": "If your bot can do much more, let's summarize it here...\nJust type `/slash help` to display all options.",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ]
+        }
+    ]
+}

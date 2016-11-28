@@ -1,0 +1,140 @@
+{
+    "attachments": [
+        {
+            "fallback": "We found 5 results for Slack on your service:",
+            "pretext": "We found *5 results* for *Slack* in our service:",
+            "title": "Slack API",
+            "title_link": "http://www.slugbay.com/#!/home",
+            "text": "All of the APIs can be used alone or in conjunction with each other to build many different kinds of Slack apps. Find out more here: https://api.slack.com/",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],
+            "fields": [
+                {
+                    "title": "Resources",
+                    "value": "10",
+                    "short": true
+                },
+                {
+                    "title": "Followers",
+                    "value": "0",
+                    "short": true
+                }
+            ],   
+            "thumb_url": "https://static.slugbay.com/screen/stack/gabszanto/Dskr/medium.jpg",
+            "footer": "Added by user 1",
+            "footer_icon": "https://beta.slugbay.com/pictures/avatars/members/1.jpg"        
+        },
+        {
+            "title": "Slack API",
+            "title_link": "http://www.slugbay.com/#!/home",
+            "text": "All of the APIs can be used alone or in conjunction with each other to build many different kinds of Slack apps. Find out more here: https://api.slack.com/",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],
+            "fields": [
+                {
+                    "title": "Resources",
+                    "value": "10",
+                    "short": true
+                },
+                {
+                    "title": "Followers",
+                    "value": "0",
+                    "short": true
+                }
+            ],   
+            "thumb_url": "https://static.slugbay.com/screen/stack/gabszanto/Dskr/medium.jpg",
+            "footer": "Added by user 2",
+            "footer_icon": "https://beta.slugbay.com/pictures/avatars/members/2.jpg"        
+        },
+        {
+            "title": "Slack API",
+            "title_link": "http://www.slugbay.com/#!/home",
+            "text": "All of the APIs can be used alone or in conjunction with each other to build many different kinds of Slack apps. Find out more here: https://api.slack.com/",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],
+            "fields": [
+                {
+                    "title": "Resources",
+                    "value": "10",
+                    "short": true
+                },
+                {
+                    "title": "Followers",
+                    "value": "0",
+                    "short": true
+                }
+            ],   
+            "thumb_url": "https://static.slugbay.com/screen/stack/gabszanto/Dskr/medium.jpg",
+            "footer": "Added by user 3",
+            "footer_icon": "https://beta.slugbay.com/pictures/avatars/members/3.jpg"        
+        },
+        {
+            "title": "Slack API",
+            "title_link": "http://www.slugbay.com/#!/home",
+            "text": "All of the APIs can be used alone or in conjunction with each other to build many different kinds of Slack apps. Find out more here: https://api.slack.com/",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],
+            "fields": [
+                {
+                    "title": "Resources",
+                    "value": "10",
+                    "short": true
+                },
+                {
+                    "title": "Followers",
+                    "value": "0",
+                    "short": true
+                }
+            ],  
+            "thumb_url": "https://static.slugbay.com/screen/stack/gabszanto/Dskr/medium.jpg",
+            "footer": "Added by user 4",
+            "footer_icon": "https://beta.slugbay.com/pictures/avatars/members/4.jpg"        
+        },
+        {
+            "title": "Slack API",
+            "title_link": "http://www.slugbay.com/#!/home",
+            "text": "All of the APIs can be used alone or in conjunction with each other to build many different kinds of Slack apps. Find out more here: https://api.slack.com/",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],
+            "fields": [
+                {
+                    "title": "Resources",
+                    "value": "10",
+                    "short": true
+                },
+                {
+                    "title": "Followers",
+                    "value": "0",
+                    "short": true
+                }
+            ],  
+            "thumb_url": "https://static.slugbay.com/screen/stack/gabszanto/Dskr/medium.jpg",
+            "footer": "Added by user 5",
+            "footer_icon": "https://beta.slugbay.com/pictures/avatars/members/5.jpg"        
+        },
+        {            
+            "title": "View all results",
+            "title_link": "http://www.slugbay.com/#!/home",
+            "callback_id": "collections_ID",
+            "actions": [
+                {
+                    "name": "next-results",
+                    "text": "Next Results >",
+                    "type": "button",
+                    "style": "default",
+                    "value": "next"
+                }
+            ]    
+        }        
+    ]
+}

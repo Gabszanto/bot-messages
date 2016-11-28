@@ -1,0 +1,25 @@
+{
+    "attachments": [
+        {            
+            "title": "View all results",
+            "title_link": "http://www.slugbay.com/#!/home",
+            "callback_id": "results_ID",
+            "actions": [
+                {
+                    "name": "previous-results",
+                    "text": "< Previous Results",
+                    "type": "button",
+                    "style": "default",
+                    "value": "previous"
+                },
+                {
+                    "name": "next-results",
+                    "text": "Next Results >",
+                    "type": "button",
+                    "style": "primary",
+                    "value": "next"
+                }
+            ]    
+        }        
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "attachments": [
+        {            
+            "title": "View all results",
+            "title_link": "http://www.slugbay.com/#!/home",
+            "callback_id": "results_ID",
+            "actions": [
+                {
+                    "name": "page-1",
+                    "text": "1",
+                    "type": "button",
+                    "style": "primary",
+                    "value": "page-1"
+                },
+                {
+                    "name": "page-2",
+                    "text": "2",
+                    "type": "button",
+                    "style": "default",
+                    "value": "page-2"
+                },
+                {
+                    "name": "page-3",
+                    "text": "3",
+                    "type": "button",
+                    "style": "default",
+                    "value": "page-3"
+                },
+                {
+                    "name": "page-4",
+                    "text": "4",
+                    "type": "button",
+                    "style": "default",
+                    "value": "page-4"
+                },
+                {
+                    "name": "next-results",
+                    "text": "Next >",
+                    "type": "button",
+                    "style": "default",
+                    "value": "next"
+                }
+            ]    
+        }        
+    ]
+}

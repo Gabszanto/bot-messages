@@ -1,0 +1,71 @@
+{
+    "attachments": [
+        {
+            "fallback": "Today's kudos go to:",
+            "color": "#F7674E",
+            "pretext": "Here your go with today's *top 10 users* on our service:",
+            "mrkdwn_in": [
+                "text",
+                "pretext"
+            ],  
+            "author_name": "user 1 :trophy:",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/1.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "1",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "Q",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 2",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/2.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "2",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "R",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "author_name": "user 3",
+            "author_icon": "https://beta.slugbay.com/pictures/avatars/members/3.jpg",
+            "fields": [
+                {
+                    "title": "Rank",
+                    "value": "3",
+                    "short": true
+                },
+                {
+                    "title": "Points",
+                    "value": "S",
+                    "short": true
+                }
+            ]
+        },
+        {
+            "title": "Want to view more?",
+            "callback_id": "kudos_10_users",
+            "actions": [
+                {
+                    "name": "top-10",
+                    "text": "View Top 10 Users",
+                    "type": "button",
+                    "value": "top-10"
+                }
+            ] 
+        }
+    ]
+}
