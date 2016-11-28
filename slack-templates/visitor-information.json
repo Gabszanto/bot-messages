@@ -1,0 +1,63 @@
+{
+    "attachments": [
+        {
+            "fallback": "Required plain-text summary of the attachment.",
+            "color": " ",
+            "pretext": "Current visitor information",
+            "title": "🇫🇷 Grenoble, France ",
+            "title_link": "https://www.google.fr/maps/place/Grenoble/@45.1574206,5.7178156,11.5z/data=!4m5!3m4!1s0x478af48bd689be6f:0x618c10cd6e995398!8m2!3d45.188529!4d5.724524",
+            "image_url": "https://raw.githubusercontent.com/Gabszanto/bot-messages/master/assets/grenoble.png",
+            "fields": [
+                {
+                    "title": "Visitor Name",
+                    "value": "River Rhodes",
+                    "short": true
+                },
+                {
+                    "title": "Current Page",
+                    "value": "<https://goo.gl/Dkweg0|Acme.com/help>",
+                    "short": true
+                },
+                {
+                    "title": "OS",
+                    "value": "MacOS 10.11.4",
+                    "short": true
+                },
+                {
+                    "title": "Browser",
+                    "value": "Chrome 50.0.2261",
+                    "short": true
+                },
+                {
+                    "title": "Weather",
+                    "value": "☁ ️Cloudy 54°F",
+                    "short": true
+                },
+                {
+                    "title": "Local Time",
+                    "value": "5:30 PM",
+                    "short": true
+                }
+            ],
+            "fallback": "You are not able to click on a button.",
+            "callback_id": "button_id",
+            "color": " ",
+            "actions": [
+                {
+                    "name": "translate",
+                    "text": "Translate",
+                    "style":"default",
+                    "type": "button",
+                    "value": "translate-value"
+                },
+                {
+                    "name": "more",
+                    "text": "More Actions",
+                    "style":"default",
+                    "type": "button",
+                    "value": "more-value"
+                }
+            ] 
+        }
+    ]
+}

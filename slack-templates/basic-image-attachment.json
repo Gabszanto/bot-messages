@@ -1,0 +1,13 @@
+{
+    "attachments": [
+        {
+            "fallback": "Required plain-text summary of the attachment.",
+            "color": " ",
+            "pretext": "Attachement pretext",
+            "title": "Title",
+            "title_link": " ",
+            "text": "This is the text of an attachment.",
+            "image_url": "https://raw.githubusercontent.com/Gabszanto/bot-messages/master/assets/image-1600x1000.png"
+        }
+    ]
+}

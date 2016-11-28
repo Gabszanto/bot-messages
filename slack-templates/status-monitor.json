@@ -1,0 +1,22 @@
+{
+    "attachments": [
+        {
+            "fallback": "Required plain-text summary of the attachment.",
+            "color": "#FCDB9C",
+            "title": "Tireggered #3:Site Outage",
+            "title_link":"https://goo.gl/Dkweg0",
+            "text": "Assinged to: <https://goo.gl/Dkweg0|Oncall Service>\nService:<https://goo.gl/Dkweg0|RSI>",
+            "fallback": "You are not able to resolve",
+            "callback_id": "button_id",
+            "actions": [
+                {
+                    "name": "resolve",
+                    "text": "Resolve",
+                    "style":"default",
+                    "type": "button",
+                    "value": "resolve-value"
+                }
+            ] 
+        }
+    ]
+}
